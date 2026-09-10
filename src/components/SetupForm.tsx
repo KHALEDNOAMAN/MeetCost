@@ -1,0 +1,1 @@
+export default function SetupForm() { return <div>Setup</div>; }
