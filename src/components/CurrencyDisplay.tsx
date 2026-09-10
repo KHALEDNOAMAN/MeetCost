@@ -1,0 +1,1 @@
+export default function CurrencyDisplay() { return <div>$0.00</div>; }
