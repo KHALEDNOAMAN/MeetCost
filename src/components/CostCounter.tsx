@@ -1,0 +1,1 @@
+export default function CostCounter() { return <div>Counter</div>; }
