@@ -1,0 +1,1 @@
+export function calc() { return 0; }
